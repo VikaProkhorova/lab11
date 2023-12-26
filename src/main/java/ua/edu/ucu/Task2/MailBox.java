@@ -3,6 +3,7 @@ package ua.edu.ucu.Task2;
 import com.mailjet.client.errors.MailjetException;
 import com.mailjet.client.errors.MailjetSocketTimeoutException;
 import lombok.Getter;
+import lombok.var;
 
 import java.util.ArrayList;
 import java.util.List;
